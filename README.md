@@ -1,2 +1,2 @@
 # Project-K
-# MERN + Python(Agent Worker)
+# MERN only (Agent in Node)
